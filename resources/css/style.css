@@ -4,7 +4,6 @@ body {
     text-align: center;
 }
 
-
 h1 {
     font-family: Verdana;
     font-weight: normal;
@@ -30,5 +29,10 @@ h6 a {
 .descriptions {
     font-family: Verdana;
     font-size: 21px;
+    color: gray;
+}
+
+#mark h4 {
+    text-align: right;
     color: gray;
 }
